@@ -58,3 +58,15 @@ Find the hash index
 Search the list for the key
 If found, delete the node from the list, (return the node or value?)
 Else return None
+
+### Resizing:
+
+#### Step 1:
+- Make a new bigger table/array/list
+
+#### Step 2:
+- Go through all the old elements and hash into the new list
+
+#### Rule of Thumb:
+- If you resize bigger, double the size.
+-If you resize smaller, half the size
