@@ -44,6 +44,19 @@ for i in data: 0(n)
 Counting Elements
 -----------------
 1
+5
+5
+7
+9
+2
+3
+9
+5
+
+h = {}
+
+for i in data:
+    if i is not 
 
 Aside
 -----
